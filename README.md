@@ -1,5 +1,5 @@
 # SQL-Showcase
-This project helps me enhance my SQL skills and deepen my understanding of relational databases. CS50 SQL LECTURE 7
+This project helped me enhance my SQL skills and deepen my understanding of relational databases. CS50 SQL LECTURE 7
 Repository Description
 In this repository, I practiced my skills in writing SQL queries using the IMDb database. The project includes various queries that demonstrate:
 
